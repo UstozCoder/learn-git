@@ -1,2 +1,7 @@
 Bu birinchi qator matnimiz bo'ladi.
+<<<<<<< HEAD
 abdulboriy push qildi
+=======
+men saidmurod
+Yana bir qator qo'shib qo'yaverdik...
+>>>>>>> a1b7aea994761f6539303f91eb1611b6406427b0
